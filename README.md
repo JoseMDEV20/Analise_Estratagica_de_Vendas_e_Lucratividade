@@ -1,6 +1,5 @@
 📊 Business Intelligence: Análise Estratégica de Vendas e Lucratividade
 
-📊 Business Intelligence: Análise Estratégica de Vendas e Lucratividade
 O Projeto
 O objetivo desta análise foi transformar uma base de dados de vendas bruta em um cockpit de decisão. A ideia central foi ir além do faturamento (vendas) e focar na saúde financeira da operação, identificando onde o volume de vendas não está se traduzindo em lucro real.
 
@@ -29,3 +28,5 @@ Tendências de Mercado: Sazonalidade de vendas ao longo dos anos com comparaçã
 Eficiência Operacional: Visão clara de quais produtos impulsionam o lucro e quais precisam de revisão estratégica de preços ou custos logísticos.
 
 Durante a implementação da data dinâmica, superei desafios de sintaxe no Tableau utilizando blocos CASE/WHEN para garantir que o parâmetro de granularidade interagisse corretamente com as funções de data do motor de cálculo.
+
+<img width="1353" height="724" alt="print of Análise Estratégica de Vendas e Lucratividade" src="https://github.com/user-attachments/assets/79792a60-2eee-45fd-a9c9-e59e08d68c79" />
